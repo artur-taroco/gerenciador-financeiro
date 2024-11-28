@@ -15,10 +15,10 @@ Uma aplicação para organizar finanças mensais, registrando entradas, saídas 
 - **Backend:** PHP
 - **Banco de Dados:** MySQL
 
-##Video demonstrando o funcionamento do site
+## Video demonstrando o funcionamento do site
 - https://youtu.be/aMKJ2ADcOCA
-
-##Trabalho realizado pelos alunos:
-- Artur Camilo Taroco RA: 2009597
-- Marcelo Beverari do Nascimento Filho RA: 1997165
-##Pela Universidade de Marilia(UNIMAR), Curso de Analise e Desenvolvimento de Sistemas
+ 
+## Trabalho realizado pelos alunos:
+- Artur Camilo Taroco RA: 2009597.
+- Marcelo Beverari do Nascimento Filho RA: 1997165.
+## Pela Universidade de Marilia(UNIMAR), Curso de Analise e Desenvolvimento de Sistemas
